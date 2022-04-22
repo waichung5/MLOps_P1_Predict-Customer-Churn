@@ -1,0 +1,6 @@
+root - INFO - Testing import_data [SUCCESS]: Dataframe is imported correctly
+root - INFO - Testing perform_eda [SUCCESS]: All EDA plots can be found
+root - INFO - Testing encoder helper [SUCCESS]: Dataframe contains all categorical features.
+root - INFO - Testing feature engineering [SUCCESS]: Train and test data sets are correctly split.
+root - INFO - Testing train_models-save models [SUCCESS]: All models are saved correctly.
+root - INFO - Testing train_models-save results [SUCCESS]: All result files are saved correctly.
